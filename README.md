@@ -20,6 +20,10 @@
 # Ansible though it is a open source it has two components
  1) Ansible core       
  2) Ansible
+
+
+
+ 
              Ansible core      Ansible 
                2.17        -      10
                2.11        -      4
