@@ -17,7 +17,7 @@
 
 # It is a tool from IBM
 
-# Ansible though it is a open source it has two components
+### Ansible though it is a open source it has two components
  1) Ansible core       
  2) Ansible
 
@@ -32,7 +32,7 @@
                2.14        -      7
                2.15        -      8
                2.16        -      9
-               
+
 
 ### Ansible solves the shell  problems 
   1) Ansible is declarative (it supports any flavour of linux like redhat,ubuntu)
