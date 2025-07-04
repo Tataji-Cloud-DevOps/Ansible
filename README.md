@@ -15,11 +15,19 @@
 4) if we are having 20 servers we can run at time but in bash we need to login to server and we can also at a time,
    but in bash we need to run 100 server it takes time.
 
-### It is a tool from IBM
+# It is a tool from IBM
 
 # Ansible though it is a open source it has two components
- 1) Ansible core 
+ 1) Ansible core       
  2) Ansible
+             Ansible core      Ansible 
+               2.17        -      10
+               2.11        -      4
+               2.12        -      5
+               2.13        -      6
+               2.14        -      7
+               2.15        -      8
+               2.16        -      9
 
 ### Ansible solves the shell  problems 
   1) Ansible is declarative (it supports any flavour of linux like redhat,ubuntu)
@@ -31,8 +39,8 @@
 Push : If we telling something to the server(main server) and the instructions are pushed to respective node (servers)
 Pull : If the infrastructure is so dynamic that means it is scalinmg up and down ( 100 to 200 servers and 200 to 50 servers ) at that time when the server comes up the server is connected to the ansible and download the code locally and this mechanism is called pull.
 
-### why ansible is famous or adopted:
-* it is agent less
+### Why ansible is famous or adopted:
+* It is agent less
 * Ansible works on ssh
 
 ### What we need to do , for ansible to work 
