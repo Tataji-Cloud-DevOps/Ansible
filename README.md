@@ -23,7 +23,7 @@
 
 
 
- 
+
              Ansible core      Ansible 
                2.17        -      10
                2.11        -      4
@@ -32,6 +32,7 @@
                2.14        -      7
                2.15        -      8
                2.16        -      9
+               
 
 ### Ansible solves the shell  problems 
   1) Ansible is declarative (it supports any flavour of linux like redhat,ubuntu)
