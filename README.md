@@ -15,7 +15,7 @@
 4) if we are having 20 servers we can run at time but in bash we need to login to server and we can also at a time,
    but in bash we need to run 100 server it takes time.
 
-# It is a tool from IBM
+### Ansible is a tool from IBM
 
 ### Ansible though it is a open source it has two components
  1) Ansible core       
